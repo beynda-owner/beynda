@@ -4,7 +4,7 @@
 
 We build websites, apps and custom software, automate routine work, and connect the tools your business uses. Start with an idea, an existing product or a process you want to improve.
 
-[Explore our work](https://beynda.com/projects.html) · [Discuss your project](https://beynda.com/#contact)
+[Explore our work](https://beynda.com/en/projects/) · [Discuss your project](https://beynda.com/en/#contact)
 
 ## What we do
 
@@ -23,7 +23,7 @@ We build websites, apps and custom software, automate routine work, and connect 
 
 ## Start a conversation
 
-Tell us what you want to build, improve or automate through [beynda.com](https://beynda.com/#contact).
+Tell us what you want to build, improve or automate through [beynda.com](https://beynda.com/en/#contact).
 
 **We work in English and Russian.**
 
